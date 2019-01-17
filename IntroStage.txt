@@ -1,0 +1,6 @@
+Om een nieuwe repo te starten hoef ik alleen maar een nieuwe repo te maken. Ik moet Git init. 
+Erna git add "mijn nieuwe folder" aan 
+Hierna kan ik git commit -m "boodschap van mijn commit"
+git remote add "Mijn nieuwe repo naam" link van github
+Git push "naam van mijn repo" master 
+https://www.cs.colostate.edu/helpdocs/vi.html
